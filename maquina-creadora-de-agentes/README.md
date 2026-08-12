@@ -1,6 +1,6 @@
-# 🏗️ Máquina Creadora de Agentes
+# Máquina Creadora de Agentes
 
-> Agente que crea otros agentes.
+> Un agente que crea otros agentes.
 
 Un especialista en diseño de prompts para agentes. Entrevista, desglosa y construye la
 especificación completa de un agente nuevo antes de escribir una sola línea
