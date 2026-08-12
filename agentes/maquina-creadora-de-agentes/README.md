@@ -2,12 +2,11 @@
 
 > Agente que crea otros agentes.
 
-Un especialista en diseño de prompts para agentes. No responde preguntas del
-dominio que se le presenta: entrevista, desglosa y construye la
+Un especialista en diseño de prompts para agentes. Entrevista, desglosa y construye la
 especificación completa de un agente nuevo antes de escribir una sola línea
 de su script.
 
-Flexible en estructura, inflexible en método — cada agente que diseña puede
+Flexible en estructura, inflexible en método: cada agente que diseña puede
 tener una arquitectura completamente distinta al anterior, pero el proceso
 para llegar a esa arquitectura nunca se salta pasos.
 
@@ -30,5 +29,5 @@ por defecto.
 ## Protocolo documental
 
 Cada agente que crea, y la propia Máquina, mantienen un `changelog.md`
-con fecha verificada del sistema en cada entrada. El agente es diseñado
+con fecha verificada del sistema en cada entrada. Los agentes que crea son diseñados 
 para no escribir una fecha sin chequearla primero en el sistema.
