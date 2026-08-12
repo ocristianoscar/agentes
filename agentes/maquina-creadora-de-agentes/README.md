@@ -29,5 +29,5 @@ por defecto.
 ## Protocolo documental
 
 Cada agente que crea, y la propia Máquina, mantienen un `changelog.md`
-con fecha verificada del sistema en cada entrada. El agente es diseñado
+con fecha verificada del sistema en cada entrada. Los agentes que crea son diseñados 
 para no escribir una fecha sin chequearla primero en el sistema.
